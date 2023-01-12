@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  自动评教脚本，适用于哈尔滨医科大学教务系统
 // @author       Well404
-// @match        http://jwweb.hrbmu.edu.cn/new/welcome.page
+// @match        https://jwweb.hrbmu.edu.cn/new/welcome.page
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hrbmu.edu.cn
 // @grant        none
 // ==/UserScript==
