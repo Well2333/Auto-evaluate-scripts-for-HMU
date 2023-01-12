@@ -11,7 +11,7 @@
 3. 并导入油猴脚本。
 ![01](pics/01.jpg)
 ![02](pics/02.jpg)
-4. 登录教务系统。
+4. 登录 [教务系统](https://jwweb.hrbmu.edu.cn/new/welcome.page)，如果已经登陆过，请刷新。
 5. enjoy
 
 ## 警告
