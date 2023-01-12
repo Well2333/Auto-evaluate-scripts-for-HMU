@@ -19,7 +19,7 @@
         document.querySelector("#sm3").click();
         await sleep(1000);
         document.querySelector("#\\34 0 > table > tbody > tr:nth-child(1) > td").click();
-        await sleep(1000);
+        await sleep(3000);
         var sNum = 0;
         var iframe_selector = document.querySelector('#nav_tab > div.tabs-panels.tabs-panels-noborder > div:nth-child(2) > div > iframe').contentWindow;
         var comment_flag = null
@@ -39,7 +39,7 @@
             } catch(err) {
                 alert("脚本出现错误。错误描述：\n\n"+ err.message + "\n\n点击确定继续。");
             }
-            await sleep(1000);
+            await sleep(3000);
             var qnum = 1;
             var panel_selector = document.querySelector('#nav_tab > div.tabs-panels.tabs-panels-noborder > div:nth-child(2) > div > iframe').contentDocument.querySelector("#searchpage > div.panel.window");
             var ques_selector = panel_selector.querySelector("#container > div:nth-child("+qnum+") > input:nth-child(2)");
